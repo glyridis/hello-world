@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+
+Hi everyboy. Exploring intro of gihub
+
